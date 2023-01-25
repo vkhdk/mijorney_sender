@@ -1,0 +1,1 @@
+its a draft project for send foto and text to mijorney discord bot
